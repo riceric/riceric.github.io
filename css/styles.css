@@ -1,5 +1,23 @@
 body {
-	padding-top:50px;
+}
+section#hero, section#services {
+	padding:30px 0px;
+}
+section#hero {
+	color:#eee;
+	background:#2cadef;
+}
+section#formdemo {
+        background:#eee;
+	padding:30px 0px;
+}
+footer {
+    	background:#333;
+	color:#eee;
+	padding:30px 0px 50px;
+}
+footer #contact-info {
+	padding:20px 0px;
 }
 .site-opener {
 	padding:40px 15px;
